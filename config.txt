@@ -1,0 +1,5 @@
+token=NTU1MjcwMjM3NzQyOTU2NTU0.D2oveg.DIE1WAofdL43WW5LLoySmVPDm5c
+owner=347026764351930378
+prefix= L
+stayinchannel=true
+game= Creited By Artful DoDger
